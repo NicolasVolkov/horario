@@ -20,3 +20,4 @@ Meus códigos estão todos no "projetos de java"
 | 31/08/26 | Fazer relatório do Londrinense tech| V|  | -|
 | 01/09/26 | Terminar as listas de álgebra linear| V| Fazer códigos para o trabalho de álgebra linear | V|
 | 01/09/26 | Fazer relatório do pensamento computacional| V|  | -|
+| 08/09/26 | Estudar álgebra linear | V|  | -|
