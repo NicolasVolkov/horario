@@ -22,4 +22,5 @@ Meus códigos estão todos no "projetos de java"
 | 01/09/26 | Fazer relatório do pensamento computacional| V|  | -|
 | 08/09/26 | Estudar álgebra linear | V|  | -|
 | 10/09/26 | Estudar Gerenciamento de projetos | V|  Ajudar meu amigo com o código de RPG e fazer UCDs| V|
+| 14/09/26 | Fazer relatório do londrinense tech  | V|  Estudar Álgebra Linear| V|
 
