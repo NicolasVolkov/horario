@@ -24,3 +24,4 @@ Meus códigos estão todos no "projetos de java"
 | 10/09/26 | Estudar Gerenciamento de projetos | V|  Ajudar meu amigo com o código de RPG e fazer UCDs| V|
 | 14/09/26 | Fazer relatório do londrinense tech  | V|  Estudar Álgebra Linear| V|
 | 16/09/26 | Fazer cassino automático  | V|  | -|
+| 21/09/26 | Fazer relatório do londrinense tech  | V|  | -|
