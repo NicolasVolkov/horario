@@ -26,3 +26,4 @@ Meus códigos estão todos no "projetos de java"
 | 16/09/26 | Fazer cassino automático  | V|  | -|
 | 21/09/26 | Fazer relatório do londrinense tech  | V|  | -|
 | 22/09/26 | Fazer sistema de ranking em java  | V|  | -|
+| 23/09/26 | Fazer relatório do pensamento computacional  | V|  | -|
