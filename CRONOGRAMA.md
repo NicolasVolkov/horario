@@ -28,3 +28,5 @@ Meus códigos estão todos no "projetos de java"
 | 22/09/26 | Fazer sistema de ranking em java  | V|  | -|
 | 23/09/26 | Fazer relatório do pensamento computacional  | V|  | -|
 | 28/09/26 | Fazer relatório do londrinense tech  | V| Semana tecnológica | -|
+| 29/09/26 | Semana tecnológica   | V| Semana tecnológica | -|
+| 30/09/26 | fazer relatório do pensamento computacional   | V| Semana tecnológica | -|
