@@ -30,3 +30,4 @@ Meus códigos estão todos no "projetos de java"
 | 28/09/26 | Fazer relatório do londrinense tech  | V| Semana tecnológica | -|
 | 29/09/26 | Semana tecnológica   | V| Semana tecnológica | -|
 | 30/09/26 | fazer relatório do pensamento computacional   | V| Semana tecnológica | -|
+| 01/10/26 | estudar API em java   | V| Semana tecnológica | -|
