@@ -34,3 +34,5 @@ Meus códigos estão todos no "projetos de java"
 | 05/10/26 | Fazer relatório do londrinense tech   | V|  | -|
 | 07/10/26 | Fazer relatório do pensamento computacional   | V| Fazer tarefa de java do Matheuzinho | V |
 | 08/10/26 | Fazer tarefa de java do Matheuzinho   | V|  | - |
+| 14/10/26 | Fazer relatório do pensamento computacional   | V| Fazer tarefa de diagrama do Eron | V |
+| 15/10/26 | Fazer tarefa de java do Marcelo   | V|  | - |
