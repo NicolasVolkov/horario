@@ -37,3 +37,4 @@ Meus códigos estão todos no "projetos de java"
 | 14/10/26 | Fazer relatório do pensamento computacional   | V| Fazer tarefa de diagrama do Eron | V |
 | 15/10/26 | Fazer tarefa de java do Marcelo   | V| Fazer tarefa de HTML da Renata | V |
 | 19/10/26 | Fazer atividade de pré-cálculo  | V| Fazer relatório do londrinense tech | V |
+| 19/10/26 | Estudar API em java  | V| Fazer relatório do pensamento computacional | V |
