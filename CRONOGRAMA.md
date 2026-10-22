@@ -38,3 +38,4 @@ Meus códigos estão todos no "projetos de java"
 | 15/10/26 | Fazer tarefa de java do Marcelo   | V| Fazer tarefa de HTML da Renata | V |
 | 19/10/26 | Fazer atividade de pré-cálculo  | V| Fazer relatório do londrinense tech | V |
 | 21/10/26 | Estudar API em java  | V| Fazer relatório do pensamento computacional | V |
+| 22/10/26 | Fazer atividade 11 do Marcelo de POO  | V| Fazer atividade de HTML da Renata | V |
