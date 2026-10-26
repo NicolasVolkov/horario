@@ -39,4 +39,4 @@ Meus códigos estão todos no "projetos de java"
 | 19/10/26 | Fazer atividade de pré-cálculo  | V| Fazer relatório do londrinense tech | V |
 | 21/10/26 | Estudar API em java  | V| Fazer relatório do pensamento computacional | V |
 | 22/10/26 | Fazer atividade 11 do Marcelo de POO  | V| Fazer atividade de HTML da Renata | V |
-| 22/10/26 | Fazer relatório do londrinense tech  | X | Estudar API e entregar atividades feitas | X |
+| 22/10/26 | Fazer relatório do londrinense tech  | V | Estudar API e entregar atividades feitas | V |
