@@ -41,3 +41,4 @@ Meus códigos estão todos no "projetos de java"
 | 22/10/26 | Fazer atividade 11 do Marcelo de POO  | V| Fazer atividade de HTML da Renata | V |
 | 26/10/26 | Fazer relatório do londrinense tech  | V | Estudar API e entregar atividades feitas | V |
 | 28/10/26 | Fazer relatório do pensamento computacional  | V | Tarefa do Marcelo POO | V |
+| 29/10/26 | Atividade do Marcelo  | V | enviar primeira lista e começar segunda lista de mat | V |
