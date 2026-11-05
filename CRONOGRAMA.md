@@ -43,4 +43,4 @@ Meus códigos estão todos no "projetos de java"
 | 28/10/26 | Fazer relatório do pensamento computacional  | V | Tarefa do Marcelo POO | V |
 | 29/10/26 | Atividade do Marcelo  | V | enviar primeira lista e começar segunda lista de mat | V |
 | 03/10/26 | Diagrama de uso do Eron e Atividade HTML da Renata  | V | Fazer a segunda lista de mat | V |
-| 04/10/26 | Relatório do pensamento computacional  | V | Fazer atividade do marcelo POO | V |
+| 04/10/26 | Fazer tabela de html da Renata  | V | terminar segunda lista de mat | V |
