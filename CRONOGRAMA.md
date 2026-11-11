@@ -46,4 +46,4 @@ Meus códigos estão todos no "projetos de java"
 | 04/11/26 | Fazer tabela de html da Renata  | V | terminar segunda lista de mat | V |
 | 9/11/26 | Formatura do Londrinense tech  | V |  | - |
 | 10/11/26 | Formatura do Pensamento computacional  | V |  | - |
-| 11/11/26 | Fazer atividade 4 do Matheusinho sobre include e exclude  | V |  | - |
+| 11/11/26 | Fazer atividade 4 do Matheusinho sobre include e exclude  | V | Começar lista 3 de pré-cálculo | V |
