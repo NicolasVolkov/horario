@@ -48,3 +48,4 @@ Meus códigos estão todos no "projetos de java"
 | 10/11/26 | Formatura do Pensamento computacional  | V |  | - |
 | 11/11/26 | Fazer atividade 4 do Matheusinho sobre include e exclude  | V | Começar lista 3 de pré-cálculo | V |
 | 12/11/26 | Fazer Atividade da Renata HTML  | V | fazer lista de pré-cálculo | V |
+| 13/11/26 | Fazer Atividade 21 de POO  | V | fazer atividade quick sort | V |
