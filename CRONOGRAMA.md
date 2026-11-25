@@ -49,3 +49,6 @@ Meus códigos estão todos no "projetos de java"
 | 11/11/26 | Fazer atividade 4 do Matheusinho sobre include e exclude  | V | Começar lista 3 de pré-cálculo | V |
 | 12/11/26 | Fazer Atividade da Renata HTML  | V | fazer lista de pré-cálculo | V |
 | 13/11/26 | Fazer Atividade 21 de POO  | V | fazer atividade quick sort | V |
+| 20/11/26 | Fazer Atividade de documentação de caso de uso  | V |  | - |
+| 23/11/26 | Fazer lista de matemática  | V |   |  |
+| 25/11/26 | Fazer atividade de portfólio da Renata  | V | Terminar lista de matemática | V |
